@@ -7,5 +7,6 @@
 - [アーキテクチャ](./architecture.md)
 - [オペレーティングシステム](./operating_systems.md)
 - [ブートローダ](./boot_sources.md)
+- [起動時の設定](./boot-time_configuration.md)
 - [オペレーティングシステムへの利便性](./convenience_to_operating_systems.md)
 - [起動モジュール](./boot_modules.md)
