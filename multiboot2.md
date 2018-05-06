@@ -15,7 +15,7 @@ Copyright © 1999,2000,2001,2002,2005,2006,2009,2010,2016 Free Software Foundati
 
 
 - [概要](./1-overview/index.md)
-- [用語](./2-terminology/index.md)
+- [用語](./2-terminology.md)
 - [仕様](./3-specification/index.md)
 - [例](./4-examples/index.md)
 - [歴史](./5-history/index.md)
